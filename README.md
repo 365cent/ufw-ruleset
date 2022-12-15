@@ -1,6 +1,6 @@
 # ufw-ruleset
 
-Files: `/etc/ufw/before.rules`
+File: `/etc/ufw/before.rules`
 
 ```shell
 # Limit to 20 concurrent connections on port 80/443 per IP
